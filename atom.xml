@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://705600.github.io</id>
     <title>iTT</title>
-    <updated>2020-05-19T19:47:39.769Z</updated>
+    <updated>2020-05-19T19:51:04.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://705600.github.io"/>
     <link rel="self" href="https://705600.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://705600.github.io/images/avatar.png</logo>
     <icon>https://705600.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, iTT</rights>
+    <entry>
+        <title type="html"><![CDATA[LX9]]></title>
+        <id>https://705600.github.io/post/lx9/</id>
+        <link href="https://705600.github.io/post/lx9/">
+        </link>
+        <updated>2020-05-19T19:47:54.000Z</updated>
+        <content type="html"><![CDATA[<p>LX9 混合了 7 路输出，包括 4 个子组，还有主左，右和中（单声道）混音输出。 LX9 继承了 LX7 系列的光荣传统，适用于现场演出扩声，教堂，剧院和任何类似应用中的固定设施（要求以紧凑型的调音台提供大量的输入和最大的输出能力）。 LX9 可轻松满足录音和现场应用的要求。<br>
+<img src="https://705600.github.io/post-images/1589917750501.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开始使用GRIDEA写博客了]]></title>
         <id>https://705600.github.io/post/zxt/</id>
