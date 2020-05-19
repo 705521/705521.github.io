@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://705600.github.io</id>
     <title>Gridea</title>
-    <updated>2020-05-19T17:58:03.114Z</updated>
+    <updated>2020-05-19T17:58:44.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://705600.github.io"/>
     <link rel="self" href="https://705600.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://705600.github.io/images/avatar.png</logo>
     <icon>https://705600.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[开始使用GRIDEA写博客了]]></title>
+        <id>https://705600.github.io/post/zxt/</id>
+        <link href="https://705600.github.io/post/zxt/">
+        </link>
+        <updated>2020-05-19T17:47:23.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>   好久没有在互联网上搭建自己的网站了！回想过去，这么多年都已经走了过来，自己已经离曾经的那么梦想越来越远了！不过还好，在这个平台也有自己的发展，加油吧！
+   曾经在互联网上搭建过typecho、z-blog、织梦、wordpress等各种博客程序，也搭建过论坛，召集过网络朋友一起做网站，但随着岁月的逝去，曾经聚在网络上的一些人都渐渐的散开了，只能偶尔在曾经的QQ上面看到旧友的动态。
+   怀念曾经，怀念青春，但不得不向前看。
+   不折腾了，休息了，愿明天更美好吧！
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://705600.github.io/post/hello-gridea/</id>
