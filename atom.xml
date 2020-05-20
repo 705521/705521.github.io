@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://itt.github.io</id>
+    <id>https://705521.github.io</id>
     <title>iTT</title>
-    <updated>2020-05-20T03:30:03.556Z</updated>
+    <updated>2020-05-20T04:07:08.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://itt.github.io"/>
-    <link rel="self" href="https://itt.github.io/atom.xml"/>
+    <link rel="alternate" href="https://705521.github.io"/>
+    <link rel="self" href="https://705521.github.io/atom.xml"/>
     <subtitle>爱生活，爱TT，随心记录，胡乱折腾。</subtitle>
-    <logo>https://itt.github.io/images/avatar.png</logo>
-    <icon>https://itt.github.io/favicon.ico</icon>
+    <logo>https://705521.github.io/images/avatar.png</logo>
+    <icon>https://705521.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, iTT</rights>
     <entry>
         <title type="html"><![CDATA[520]]></title>
-        <id>https://itt.github.io/post/shu-yu-wo-de-520/</id>
-        <link href="https://itt.github.io/post/shu-yu-wo-de-520/">
+        <id>https://705521.github.io/post/shu-yu-wo-de-520/</id>
+        <link href="https://705521.github.io/post/shu-yu-wo-de-520/">
         </link>
         <updated>2020-05-20T02:09:35.000Z</updated>
         <content type="html"><![CDATA[<pre><code>    手机提示我，今天是我和媳妇第一次相见之后的第506天！
     时间是不是很快！五百多天了，我们也都走了过来，&quot;风风雨雨...?&quot;哈哈😂早上打开朋友圈看到朋友们都在秀恩爱，我也怕我的小可爱觉得我不够爱她，特意来到互联网这里秀一下！😘
 </code></pre>
+<figure data-type="image" tabindex="1"><img src="https://705521.github.io/post-images/1589947621776.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[开始使用GRIDEA写博客了]]></title>
-        <id>https://itt.github.io/post/zxt/</id>
-        <link href="https://itt.github.io/post/zxt/">
+        <id>https://705521.github.io/post/zxt/</id>
+        <link href="https://705521.github.io/post/zxt/">
         </link>
         <updated>2020-05-19T17:47:23.000Z</updated>
         <content type="html"><![CDATA[<pre><code>   好久没有在互联网上搭建自己的网站了！回想过去，这么多年都已经走了过来，自己已经离曾经的那么梦想越来越远了！不过还好，在这个平台也有自己的发展，加油吧！
