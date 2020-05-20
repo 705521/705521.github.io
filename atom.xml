@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://705600.github.io</id>
+    <id>https://itt.github.io</id>
     <title>iTT</title>
-    <updated>2020-05-20T02:46:39.860Z</updated>
+    <updated>2020-05-20T03:12:11.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://705600.github.io"/>
-    <link rel="self" href="https://705600.github.io/atom.xml"/>
+    <link rel="alternate" href="https://itt.github.io"/>
+    <link rel="self" href="https://itt.github.io/atom.xml"/>
     <subtitle>爱生活，爱TT，随心记录，胡乱折腾。</subtitle>
-    <logo>https://705600.github.io/images/avatar.png</logo>
-    <icon>https://705600.github.io/favicon.ico</icon>
+    <logo>https://itt.github.io/images/avatar.png</logo>
+    <icon>https://itt.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, iTT</rights>
     <entry>
-        <title type="html"><![CDATA[属于我的520]]></title>
-        <id>https://705600.github.io/post/shu-yu-wo-de-520/</id>
-        <link href="https://705600.github.io/post/shu-yu-wo-de-520/">
+        <title type="html"><![CDATA[520]]></title>
+        <id>https://itt.github.io/post/shu-yu-wo-de-520/</id>
+        <link href="https://itt.github.io/post/shu-yu-wo-de-520/">
         </link>
         <updated>2020-05-20T02:09:35.000Z</updated>
         <content type="html"><![CDATA[<pre><code>    手机提示我，今天是我和媳妇第一次相见之后的第506天！
     时间是不是很快！五百多天了，我们也都走了过来，&quot;风风雨雨...?&quot;哈哈😂早上打开朋友圈看到朋友们都在秀恩爱，我也怕我的小可爱觉得我不够爱她，特意来到互联网这里秀一下！😘
 </code></pre>
-<figure data-type="image" tabindex="1"><img src="https://705600.github.io/post-images/1589942788111.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://itt.github.io/post-images/1589942788111.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[开始使用GRIDEA写博客了]]></title>
-        <id>https://705600.github.io/post/zxt/</id>
-        <link href="https://705600.github.io/post/zxt/">
+        <id>https://itt.github.io/post/zxt/</id>
+        <link href="https://itt.github.io/post/zxt/">
         </link>
         <updated>2020-05-19T17:47:23.000Z</updated>
         <content type="html"><![CDATA[<pre><code>   好久没有在互联网上搭建自己的网站了！回想过去，这么多年都已经走了过来，自己已经离曾经的那么梦想越来越远了！不过还好，在这个平台也有自己的发展，加油吧！
@@ -33,38 +33,6 @@
    怀念曾经，怀念青春，但不得不向前看。
    不折腾了，休息了，愿明天更美好吧！
 </code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://705600.github.io/post/hello-gridea/</id>
-        <link href="https://705600.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
